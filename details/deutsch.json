@@ -141,15 +141,6 @@
                     "wrongAnswers": [],
                     "gameType": 1,
                     "cost": 60
-                },
-                {
-                    "number": 5,
-                    "rightAnswer": "Taylor",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 1,
-                    "cost": 70
                 }
             ]
         },

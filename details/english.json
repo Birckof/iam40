@@ -343,6 +343,24 @@
             ]
         },
         {
+            "name": "Music Test",
+            "localizedName": "Music Test",
+            "gameType": 7,
+            "useMixedTypes": true,
+            "orderNumber": 8,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Test",
+                    "imageText": "Probando nuevo juego musica",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 7,
+                    "cost": 0
+                }
+            ]
+        },
+        {
             "name": "Erudition",
             "localizedName": "Erudition",
             "gameType": 5,
